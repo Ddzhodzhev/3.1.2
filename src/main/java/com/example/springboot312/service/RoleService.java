@@ -1,10 +1,10 @@
-package com.example.springboot311.dao;
+package com.example.springboot312.service;
 
-import com.example.springboot311.model.Role;
+import com.example.springboot312.model.Role;
 
 import java.util.List;
 
-public interface RoleDao {
+public interface RoleService {
     void createRole(Role role);
 
     void updateRole(Role role);

@@ -1,4 +1,4 @@
-package com.example.springboot311;
+package com.example.springboot312;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

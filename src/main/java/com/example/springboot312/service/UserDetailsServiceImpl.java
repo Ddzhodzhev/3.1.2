@@ -1,6 +1,6 @@
-package com.example.springboot311.service;
+package com.example.springboot312.service;
 
-import com.example.springboot311.model.User;
+import com.example.springboot312.model.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;

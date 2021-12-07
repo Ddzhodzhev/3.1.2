@@ -1,7 +1,7 @@
-package com.example.springboot311.service;
+package com.example.springboot312.service;
 
-import com.example.springboot311.dao.UserDao;
-import com.example.springboot311.model.User;
+import com.example.springboot312.dao.UserDao;
+import com.example.springboot312.model.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.stereotype.Service;

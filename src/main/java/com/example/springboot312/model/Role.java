@@ -1,4 +1,4 @@
-package com.example.springboot311.model;
+package com.example.springboot312.model;
 
 import lombok.Getter;
 import lombok.Setter;

@@ -1,9 +1,9 @@
-package com.example.springboot311.controllers;
+package com.example.springboot312.controllers;
 
-import com.example.springboot311.model.Role;
-import com.example.springboot311.model.User;
-import com.example.springboot311.service.RoleService;
-import com.example.springboot311.service.UserService;
+import com.example.springboot312.model.Role;
+import com.example.springboot312.model.User;
+import com.example.springboot312.service.RoleService;
+import com.example.springboot312.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.annotation.AuthenticationPrincipal;
 import org.springframework.stereotype.Controller;

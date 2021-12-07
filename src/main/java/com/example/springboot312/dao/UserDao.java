@@ -1,6 +1,6 @@
-package com.example.springboot311.dao;
+package com.example.springboot312.dao;
 
-import com.example.springboot311.model.User;
+import com.example.springboot312.model.User;
 
 import java.util.List;
 

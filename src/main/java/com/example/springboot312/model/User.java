@@ -1,6 +1,5 @@
-package com.example.springboot311.model;
+package com.example.springboot312.model;
 
-import com.example.springboot311.model.Role;
 import lombok.Getter;
 import lombok.Setter;
 import org.springframework.security.core.GrantedAuthority;
